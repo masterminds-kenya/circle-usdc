@@ -1,6 +1,6 @@
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
 
-const SAND_API_KEY =   process.env.SAND_API_KEY;
+const SAND_API_KEY = process.env.SAND_API_KEY;
 import { Circle, CircleEnvironments } from "@circle-fin/circle-sdk";
 
 console.log(SAND_API_KEY);
